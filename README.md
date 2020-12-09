@@ -1,2 +1,2 @@
-# C21
-functions , library , boolean values
+# collisionAlgorithm
+Algorithm to detect collision between two objects
